@@ -3,3 +3,25 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+body{
+    background-color: lightskyblue;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+  
+.gif {
+    max-width: 100%;
+}
+  
+.text {
+    text-align: center;
+    margin-top: 20px;
+}
+  
